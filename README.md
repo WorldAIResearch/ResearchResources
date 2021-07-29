@@ -24,6 +24,8 @@
 2. 综合查询 [[Link](http://459.org/)]
    - 整合谷歌学术，SCI-Hub，百度学术等等为一体
    - 可以查导师评价
+3. 会议提交ddl，时间，地点信息[[Link](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)]
+   - 包含  Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics
 
 
 
@@ -33,7 +35,26 @@
 
    - 查找数据集的网站
 
-   
+
+
+## 画图工具
+
+1. Process on [[Link](https://www.processon.com/)]
+   - 适用于作业小论文的在线画图工具
+   - 包括基本的思维导图，流程图等
+2. BioRander [[Link](https://biorender.com/)]
+   - 工科画图工具，尤其适合生命科学和医学研究领域
+3. imageGP [[Link](http://www.ehbio.com/ImageGP/)]
+   - 包括各种柱形图，散点图，热力图等，非常丰富的模板库
+   - 基于R语言，自动生成源代码
+4. Hiplot [[Link](https://hiplot.com.cn)]
+   - 包含各种热力图，网络图，等等，丰富的模板库
+   - 基于R语言，自动生成源代码
+
+
+
+
+
 
 ## 其他工具
 
