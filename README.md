@@ -61,6 +61,9 @@
 1. Pic diet [[Link](https://www.picdiet.com/)]
    - 图片压缩工具
    - 高精度接近无损压缩，保证图片质量的前提下使文件体积非常小
+2. Mapus [[Link](http://github.com/alyssaxuu/mapus)]
+   - 地图协同工具
+   - ![](https://github.com/alyssaxuu/mapus/blob/master/preview.gif)
 
 
 
