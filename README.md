@@ -26,6 +26,9 @@
    - 可以查导师评价
 3. 会议提交ddl，时间，地点信息[[Link](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)]
    - 包含  Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics
+4. 会议之眼 [[Link](https://www.conferenceeye.cn/#/layout/home)]
+   - 计算机会议详细信息，ddl等
+   - 支持微信公众号，以及微信小程序
 
 
 
