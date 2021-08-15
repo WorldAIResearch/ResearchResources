@@ -29,7 +29,7 @@
    - 记录时间：2021.07.19, 
    - 整合谷歌学术，SCI-Hub，百度学术等等为一体
    - 可以查导师评价
-3. 会议提交ddl，时间，地点信息[[Link](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)]
+3. 会议提交ddl，时间，地点信息 [[Link](https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html)]
    - 记录时间：2021.07.21, 
    - 包含  Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics
 4. 会议之眼 [[Link](https://www.conferenceeye.cn/#/layout/home)]
@@ -48,7 +48,7 @@
 
 
 
-## 画图工具
+## 画图与可视化工具
 
 1. Process on [[Link](https://www.processon.com/)]
    - 记录时间：2021.07.29, 
@@ -65,6 +65,11 @@
    - 记录时间：2021.07.29, 
    - 包含各种热力图，网络图，等等，丰富的模板库
    - 基于R语言，自动生成源代码
+5. 阿里蚂蚁可视化项目 [[Link](https://antv.vision/en)] [[Github](https://github.com/antvis)]
+   1. G2 [[Github](https://github.com/antvis/G2)]
+      - 阿里蚂蚁创建, 记录时间：2021.08.15
+      - Github star: 10.8k, 2021.08.15
+      - 各种图形，表格等
 
 
 
@@ -77,7 +82,7 @@
    - 记录时间：2021.07.21,
    - 图片压缩工具
    - 高精度接近无损压缩，保证图片质量的前提下使文件体积非常小
-2. Mapus [[Link](http://github.com/alyssaxuu/mapus)]
+2. Mapus [[Github](http://github.com/alyssaxuu/mapus)]
    - 记录时间：2021.08.05, *Last updated: 2021.08.05*
    - 地图协同工具
    - ![](https://github.com/alyssaxuu/mapus/blob/master/preview.gif)
@@ -86,6 +91,7 @@
 
 ## References
 
-1. 抖音@草原蔡徐坤
-2. 新浪微博@爱可可-爱生活
+1. 抖音 @草原蔡徐坤
+2. 新浪微博 @爱可可-爱生活
+3. Github @HaoranD
 
