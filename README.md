@@ -93,5 +93,5 @@
 
 1. 抖音 @草原蔡徐坤
 2. 新浪微博 @爱可可-爱生活
-3. Github @HaoranD
+3. Github @haoranD
 
