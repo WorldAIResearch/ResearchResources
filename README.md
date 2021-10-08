@@ -94,6 +94,9 @@
    - 记录时间：2021.08.05, *Last updated: 2021.08.05*
    - 地图协同工具
    - ![](https://github.com/alyssaxuu/mapus/blob/master/preview.gif)
+3. CODECOGS [[Link](https://latex.codecogs.com/)]
+   - 记录时间：2021.10.08
+   - Latex语法在线生成数学公式
 
 
 
