@@ -81,6 +81,12 @@
 8. Pixel Map Generator [[Link](https://pixelmap.amcharts.com/)]
    - 记录时间: 2021.10.24
    - 在线地图绘制，地图标记 ，生成高清地图图片
+9. Weights&Biases [[Link](https://wandb.ai/site)]
+   - 记录时间: 2021.10.26
+   - 数据集，模型，可视化工具
+10. neptune.ai [[Link](https://neptune.ai/)]
+    - 记录时间: 2021.10.26
+    - 数据集，模型可视化，log记录
 
 
 
@@ -93,13 +99,17 @@
    - 记录时间：2021.07.21,
    - 图片压缩工具
    - 高精度接近无损压缩，保证图片质量的前提下使文件体积非常小
+   
 2. Mapus [[Github](http://github.com/alyssaxuu/mapus)]
    - 记录时间：2021.08.05, *Last updated: 2021.08.05*
    - 地图协同工具
    - ![](https://github.com/alyssaxuu/mapus/blob/master/preview.gif)
+   
 3. CODECOGS [[Link](https://latex.codecogs.com/)]
    - 记录时间：2021.10.08
    - Latex语法在线生成数学公式
+   
+   
 
 
 
