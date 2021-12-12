@@ -14,10 +14,13 @@
 3. VOSviwer [[Link](https://www.vosviewer.com/)]
    - 记录时间：2021.07.21
    - 发现研究热点工具，支持以热力图的形式展示，快速发现领域的当前研究热点
-3. Easyscholar [[Google Extention](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=en)]
+3. CCF Rank [[Google Extention](https://chrome.google.com/webstore/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie/related)]
    - 记录时间：2021.12.12
-   - 文章搜索结果显示期刊分区
    - Source code: [[Github](https://github.com/WenyanLiu/CCFrank4dblp)]
+   - 文章搜索结果显示期刊分区，主要是CCF分区
+5. Easyscholar [[Google Extention](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=en)]
+   - 记录时间：2021.12.12
+   - 文章搜索结果显示期刊分区，主要支持国内分区数据库
    - 介绍原文: [[easyScholar简介](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)]
 
 
