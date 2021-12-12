@@ -17,6 +17,8 @@
 3. Easyscholar [[Google Extention](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=en)]
    - 记录时间：2021.12.12
    - 文章搜索结果显示期刊分区
+   - Source code: [[Github](https://github.com/WenyanLiu/CCFrank4dblp)]
+   - 介绍原文: [[easyScholar简介](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)]
 
 
 ## 期刊会议工具
