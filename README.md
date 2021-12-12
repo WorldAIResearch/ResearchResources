@@ -12,9 +12,11 @@
    - 自动写作，改写用
    - 将文章或者写作内容裂变成不同的形式
 3. VOSviwer [[Link](https://www.vosviewer.com/)]
-   - 记录时间：2021.07.21,
+   - 记录时间：2021.07.21
    - 发现研究热点工具，支持以热力图的形式展示，快速发现领域的当前研究热点
-
+3. Easyscholar [[Google Extention](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=en)]
+   - 记录时间：2021.12.12
+   - 文章搜索结果显示期刊分区
 
 
 ## 期刊会议工具
