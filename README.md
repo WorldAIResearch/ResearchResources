@@ -15,11 +15,11 @@
    - 记录时间：2021.07.21
    - 发现研究热点工具，支持以热力图的形式展示，快速发现领域的当前研究热点
 3. CCF Rank [[Google Extention](https://chrome.google.com/webstore/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie/related)]
-   - 评分： ⭐⭐; 记录时间：2021.12.12
+   - 评分: ⭐⭐; 记录时间：2021.12.12
    - Source code: [[Github](https://github.com/WenyanLiu/CCFrank4dblp)]
    - 文章搜索结果显示期刊分区，主要是CCF分区
 5. Easyscholar [[Google Extention](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=en)]
-   - 评分： ⭐⭐⭐⭐⭐; 记录时间：2021.12.12
+   - 评分: ⭐⭐⭐⭐⭐; 记录时间：2021.12.12
    - 文章搜索结果显示期刊分区，主要支持国内分区数据库
    - 介绍原文: [[easyScholar简介](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)]
 
@@ -98,12 +98,12 @@
    - 在线地图绘制，地图标记 ，生成高清地图图片
 9. Weights&Biases [[Link](https://wandb.ai/site)]
    - 记录时间: 2021.10.26
-   - 数据集，模型，可视化工具
+   - 数据集，模型，可视化以及监控工具
 10. neptune.ai [[Link](https://neptune.ai/)]
     - 记录时间: 2021.10.26
     - 数据集，模型可视化，log记录
 11. dtree_viz [[Link](https://explained.ai/decision-tree-viz/)]
-    - 评分： ⭐⭐⭐⭐⭐;记录时间: 2021.12.25
+    - 评分: ⭐⭐⭐⭐⭐;记录时间: 2021.12.25
     - 决策树过程可视化
     - 其他相关参考：
       - [[知乎](https://zhuanlan.zhihu.com/p/148526713?from_voters_page=true)] 非常fancy的可视化决策树dtree_viz
