@@ -61,8 +61,9 @@
    - 匿名发布代码，盲审论文适用
 2. **ptflops** [[Github](https://github.com/sovrasov/flops-counter.pytorch)]
    - 记录时间：2021.12.30
+   - 评分: :star2:⭐⭐⭐⭐; 
    - 基于pytorch的神经网络框架FLOPs计算工具，并且可以计算神经网络参数个数
-
+   
    
    
    
