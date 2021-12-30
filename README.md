@@ -24,6 +24,7 @@
    - 介绍原文: [[easyScholar简介](https://blog.csdn.net/weixin_49328057/article/details/113148625?spm=1001.2014.3001.5502)]
 
 
+
 ## 期刊会议工具
 
 1. **MedReading** [[Link](https://www.medreading.cn/)]
@@ -49,7 +50,6 @@
 ## 数据集工具
 
 1. **Our World in Data** [[Link](https://ourworldindata.org/)]
-
    - 记录时间：2021.07.21, 
    - 查找数据集的网站
    
@@ -57,10 +57,14 @@
 
 ## 代码工具
 1. **Anonymous Github** [[Link](https://anonymous.4open.science/)]
-
    - 记录时间：2021.07.21
    - 匿名发布代码，盲审论文适用
+2. **ptflops** [[Github](https://github.com/sovrasov/flops-counter.pytorch)]
+   - 记录时间：2021.12.30
+   - 基于pytorch的神经网络框架FLOPs计算工具，并且可以计算神经网络参数个数
 
+   
+   
    
 
 ## 画图与可视化工具
