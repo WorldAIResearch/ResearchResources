@@ -120,7 +120,10 @@
     - 评分: ⭐⭐⭐⭐⭐;记录时间: 2021.12.29
     - 支持LaTeX语法画图
     - ![](https://user-images.githubusercontent.com/17570785/50308911-03b3c380-049d-11e9-92d9-ce15669017ad.png)
-
+12. **Zetane Engine** [[Link](https://zetane.com/)]
+    - 评分: ⭐⭐⭐⭐⭐;记录时间: 2022.01.28
+    - 深度学习模型可视化
+    - ![](https://zetane.com/images/zetane-engine-screenshot-1@2x.png)
 
 
 ## 其他工具
