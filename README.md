@@ -61,12 +61,22 @@
    - 匿名发布代码，盲审论文适用
 2. **ptflops** [[Github](https://github.com/sovrasov/flops-counter.pytorch)]
    - 记录时间：2021.12.30
-   - 评分: :star2:⭐⭐⭐⭐; 
+   - 评分: :star2::star::star::star::star:; 
    - 基于pytorch的神经网络框架FLOPs计算工具，并且可以计算神经网络参数个数
    
    
-   
-   
+## 数学工具
+1. **mathpix** [[Link](https://mathpix.com/)]
+   - 记录时间：2022.03.16
+   - 评分: :star2::star2::star2::star::star:; 
+   - 利用OCR进行数学公式识别转换Latex等格式，支持电脑端全平台和移动端，订阅收费
+   - ![](https://mathpix.com/images/mathpix-page/snip_all@2x.png)
+
+
+
+
+
+
 
 ## 画图与可视化工具
 
@@ -108,7 +118,7 @@
     - 记录时间: 2021.10.26
     - 数据集，模型可视化，log记录
 11. **dtree_viz** [[Link](https://explained.ai/decision-tree-viz/)]
-    - 评分: ⭐⭐⭐⭐⭐;记录时间: 2021.12.25
+    - 评分: :star::star::star::star::star:;记录时间: 2021.12.25
     - 决策树过程可视化
     - 其他相关参考：
       - [[知乎](https://zhuanlan.zhihu.com/p/148526713?from_voters_page=true)] 非常fancy的可视化决策树dtree_viz
@@ -117,11 +127,11 @@
     - ![](https://explained.ai/decision-tree-viz/images/samples/diabetes-TD-3-X.svg)
     - ![](https://explained.ai/decision-tree-viz/images/samples/knowledge-TD-3-X.svg)
 12. **PlotNeuralNet** [[Github](https://github.com/HarisIqbal88/PlotNeuralNet)]
-    - 评分: ⭐⭐⭐⭐⭐;记录时间: 2021.12.29
+    - 评分: :star::star::star::star::star:;记录时间: 2021.12.29
     - 支持LaTeX语法画图
     - ![](https://user-images.githubusercontent.com/17570785/50308911-03b3c380-049d-11e9-92d9-ce15669017ad.png)
 13. **Zetane Engine** [[Link](https://zetane.com/)]
-    - 评分: ⭐⭐⭐⭐⭐;记录时间: 2022.01.28
+    - 评分: :star::star::star::star::star:;记录时间: 2022.01.28
     - 深度学习模型可视化
     - ![](https://zetane.com/images/zetane-engine-screenshot-1@2x.png)
 
