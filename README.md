@@ -69,7 +69,7 @@
 1. **mathpix** [[Link](https://mathpix.com/)]
    - 记录时间：2022.03.16
    - 评分: :star2::star2::star2::star::star:; 
-   - 利用OCR进行数学公式识别转换Latex等格式，支持电脑端全平台和移动端，订阅收费
+   - 利用OCR进行数学公式识别转换Latex等格式，也支持表格OCR识别转换为excel格式，支持电脑端全平台和移动端，订阅收费
    - ![](https://mathpix.com/images/mathpix-page/snip_all@2x.png)
 
 
