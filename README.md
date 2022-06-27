@@ -105,20 +105,16 @@
    - 记录时间：2021.08.28
    - 科研图片数据库
    - 科研领域以图搜图工具，通过图片搜索原文，图片出自来源
-7. **ColorSpace**  [[Link](https://mycolor.space/)]
-   - 记录时间: 2021.09.06
-   - 颜色生成器
-   - 可以生成渐变色等，论文图颜色设计
-8. **Pixel Map Generator** [[Link](https://pixelmap.amcharts.com/)]
+7. **Pixel Map Generator** [[Link](https://pixelmap.amcharts.com/)]
    - 记录时间: 2021.10.24
    - 在线地图绘制，地图标记 ，生成高清地图图片
-9. **Weights&Biases** [[Link](https://wandb.ai/site)]
+8. **Weights&Biases** [[Link](https://wandb.ai/site)]
    - 记录时间: 2021.10.26
    - 数据集，模型，可视化以及监控工具
-10. **neptune.ai** [[Link](https://neptune.ai/)]
+9. **neptune.ai** [[Link](https://neptune.ai/)]
     - 记录时间: 2021.10.26
     - 数据集，模型可视化，log记录
-11. **dtree_viz** [[Link](https://explained.ai/decision-tree-viz/)]
+10. **dtree_viz** [[Link](https://explained.ai/decision-tree-viz/)]
     - 评分: :star::star::star::star::star:;记录时间: 2021.12.25
     - 决策树过程可视化
     - 其他相关参考：
@@ -127,14 +123,34 @@
       - [[Github](https://h1ros.github.io/posts/how-to-visualize-a-decision-tree-beyond-scikit-learn/)] How to visualize a decision tree beyond scikit-learn
     - ![](https://explained.ai/decision-tree-viz/images/samples/diabetes-TD-3-X.svg)
     - ![](https://explained.ai/decision-tree-viz/images/samples/knowledge-TD-3-X.svg)
-12. **PlotNeuralNet** [[Github](https://github.com/HarisIqbal88/PlotNeuralNet)]
+11. **PlotNeuralNet** [[Github](https://github.com/HarisIqbal88/PlotNeuralNet)]
     - 评分: :star::star::star::star::star:;记录时间: 2021.12.29
     - 支持LaTeX语法画图
     - ![](https://user-images.githubusercontent.com/17570785/50308911-03b3c380-049d-11e9-92d9-ce15669017ad.png)
-13. **Zetane Engine** [[Link](https://zetane.com/)]
+12. **Zetane Engine** [[Link](https://zetane.com/)]
     - 评分: :star::star::star::star::star:;记录时间: 2022.01.28
     - 深度学习模型可视化
     - ![](https://zetane.com/images/zetane-engine-screenshot-1@2x.png)
+
+### 颜色工具
+1. **ColorSpace**  [[Link](https://mycolor.space/)]
+   - 记录时间: 2021.09.06
+   - 颜色生成器
+   - 可以生成渐变色等，论文图颜色设计
+   - ![](images/colorspace.png)
+2. **Colors.lol**  [[Link](https://colors.lol/)]
+   - 记录时间: 2022.06.27
+   - ![](images/color_lol.png)
+3. **Adobe Color**  [[Link](https://color.adobe.com/create/color-wheel)]
+   - 记录时间: 2022.06.27
+   - ![](images/adobe_color.png)
+4. **uniGradients**  [[Link](https://uigradients.com/#Autumn)]
+   - 记录时间: 2022.06.27
+   - 渐变色神器
+   - ![](images/unigradients.png)
+5. **paletton**  [[Link](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)]
+   - 记录时间: 2022.06.27
+   - ![](images/paletton.png)
 
 
 ## 其他工具
