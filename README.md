@@ -131,6 +131,11 @@
     - 评分: :star::star::star::star::star:;记录时间: 2022.01.28
     - 深度学习模型可视化
     - ![](https://zetane.com/images/zetane-engine-screenshot-1@2x.png)
+12. **Flourish** [[Link](https://flourish.studio)]
+    - 评分: :star2::star::star::star::star:;记录时间: 2022.07.15
+    - 免费的画图和数据可视化工具
+    - ![](images/flourish.png)
+
 
 ### 颜色工具
 1. **ColorSpace**  [[Link](https://mycolor.space/)]
